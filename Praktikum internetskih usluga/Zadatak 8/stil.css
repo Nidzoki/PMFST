@@ -1,0 +1,25 @@
+.spremnik{
+  height: 300px;
+  overflow-y: scroll;
+  background-color: rgb(240, 225, 207);
+} 
+
+.semestar {
+  margin: 20px;
+  padding: 20px 20px;
+  border: 1px solid black;
+  
+}
+
+.zaglavlje {
+  background-color: salmon;
+  text-align: center;
+  padding: 10px 0px;
+  position: sticky;
+  top: 10px
+}
+
+.kolegij {
+  margin-top: 15px;
+  border-bottom: 2px dotted darkblue;
+}

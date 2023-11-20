@@ -1,0 +1,55 @@
+body {
+    padding: 0% 10%;
+}
+
+.zaglavlje {
+    text-align: center;
+    padding: 2%;
+    border: 1px dashed red;
+    
+}
+
+.veliki-naslov {
+    font-size: 48pt;
+}
+
+#naziv {
+    color:rgb(0, 177, 79);
+}
+
+.objasnjenje {
+    margin: 5% 0%;
+}
+
+h3 {
+    color: grey;
+
+}
+
+h4 {
+    font-weight: normal;
+    text-decoration: underline;
+    
+}
+
+.clanak-box {
+    padding: 0% 2%;
+    margin-bottom: 5%;
+    text-align: left;
+    border: 2px solid lightgray;
+    border-left-color: gray;
+    border-bottom-color: black;
+}
+
+.autor {
+    font-style: italic;
+}
+
+.tipka {
+    color: white;
+    padding: 1% 2%;
+    display: inline-block;
+    border: 2px solid rgb(51, 88, 148);
+    text-align: center;
+    background-color:rgb(66, 115, 197);
+}

@@ -1,0 +1,13 @@
+ul{
+    text-align: left;
+}
+
+body{
+    color: lightcoral;
+    padding: 5%;
+}
+
+h1 {
+    padding: 10px;
+    border: 2px solid steelblue;
+}

@@ -1,0 +1,14 @@
+h1{
+    font-family: fantasy;
+    font-size:72px;
+    padding: 10px;
+    border: 2px solid greenyellow;
+}
+
+p{
+    background-color: rgb(53, 39, 39);
+    margin: 10px;
+    padding: 5%;
+    border: 2px solid rgb(126, 27, 165);
+}
+
