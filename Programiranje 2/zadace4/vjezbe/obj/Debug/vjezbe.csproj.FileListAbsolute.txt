@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\vjezbe\bin\Debug\vjezbe.exe.config
+C:\Users\student\Desktop\vjezbe\bin\Debug\vjezbe.exe
+C:\Users\student\Desktop\vjezbe\bin\Debug\vjezbe.pdb
+C:\Users\student\Desktop\vjezbe\obj\Debug\vjezbe.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\vjezbe\obj\Debug\vjezbe.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\vjezbe\obj\Debug\vjezbe.exe
+C:\Users\student\Desktop\vjezbe\obj\Debug\vjezbe.pdb

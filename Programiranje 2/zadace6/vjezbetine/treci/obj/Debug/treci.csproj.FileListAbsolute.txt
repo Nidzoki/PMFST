@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\vjezbetine\treci\bin\Debug\treci.exe.config
+C:\Users\student\Desktop\vjezbetine\treci\bin\Debug\treci.exe
+C:\Users\student\Desktop\vjezbetine\treci\bin\Debug\treci.pdb
+C:\Users\student\Desktop\vjezbetine\treci\obj\Debug\treci.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\vjezbetine\treci\obj\Debug\treci.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\vjezbetine\treci\obj\Debug\treci.exe
+C:\Users\student\Desktop\vjezbetine\treci\obj\Debug\treci.pdb

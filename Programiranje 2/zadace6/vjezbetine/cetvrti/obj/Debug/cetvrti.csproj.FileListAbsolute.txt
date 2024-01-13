@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\vjezbetine\cetvrti\bin\Debug\cetvrti.exe.config
+C:\Users\student\Desktop\vjezbetine\cetvrti\bin\Debug\cetvrti.exe
+C:\Users\student\Desktop\vjezbetine\cetvrti\bin\Debug\cetvrti.pdb
+C:\Users\student\Desktop\vjezbetine\cetvrti\obj\Debug\cetvrti.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\vjezbetine\cetvrti\obj\Debug\cetvrti.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\vjezbetine\cetvrti\obj\Debug\cetvrti.exe
+C:\Users\student\Desktop\vjezbetine\cetvrti\obj\Debug\cetvrti.pdb

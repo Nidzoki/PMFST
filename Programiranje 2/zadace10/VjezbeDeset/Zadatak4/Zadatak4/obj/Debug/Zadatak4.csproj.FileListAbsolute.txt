@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\bin\Debug\Zadatak4.exe.config
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\bin\Debug\Zadatak4.exe
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\bin\Debug\Zadatak4.pdb
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\obj\Debug\Zadatak4.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\obj\Debug\Zadatak4.Form1.resources
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\obj\Debug\Zadatak4.Form2.resources
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\obj\Debug\Zadatak4.Properties.Resources.resources
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\obj\Debug\Zadatak4.csproj.GenerateResource.cache
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\obj\Debug\Zadatak4.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\obj\Debug\Zadatak4.exe
+C:\Users\student\Desktop\VjezbeDeset\Zadatak4\Zadatak4\obj\Debug\Zadatak4.pdb

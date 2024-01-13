@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace v11z1
+{
+    public partial class Form1 : Form
+    {
+
+        public Dostava dostava;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnKraj_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnNovaDostava_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
+            richTextBox1.Text += $"\nIme: {f2.dostava.Ime} Vrsta: {f2.dostava.Vrsta} Cijena: {f2.dostava.Cijena}";
+            richTextBox1.Text = richTextBox1.Text.Trim();
+        }
+        
+    }
+
+}

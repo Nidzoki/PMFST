@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\vjezbetine\drugi\bin\Debug\drugi.exe.config
+C:\Users\student\Desktop\vjezbetine\drugi\bin\Debug\drugi.exe
+C:\Users\student\Desktop\vjezbetine\drugi\bin\Debug\drugi.pdb
+C:\Users\student\Desktop\vjezbetine\drugi\obj\Debug\drugi.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\vjezbetine\drugi\obj\Debug\drugi.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\vjezbetine\drugi\obj\Debug\drugi.exe
+C:\Users\student\Desktop\vjezbetine\drugi\obj\Debug\drugi.pdb

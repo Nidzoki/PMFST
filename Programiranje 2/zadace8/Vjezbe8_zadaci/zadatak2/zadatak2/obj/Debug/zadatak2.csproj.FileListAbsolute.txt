@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\bin\Debug\zadatak2.exe.config
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\bin\Debug\zadatak2.exe
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\bin\Debug\zadatak2.pdb
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\obj\Debug\zadatak2.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\obj\Debug\zadatak2.Form1.resources
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\obj\Debug\zadatak2.Properties.Resources.resources
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\obj\Debug\zadatak2.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\obj\Debug\zadatak2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\obj\Debug\zadatak2.exe
+C:\Users\student\Desktop\Vjezbe8_zadaci\zadatak2\zadatak2\obj\Debug\zadatak2.pdb

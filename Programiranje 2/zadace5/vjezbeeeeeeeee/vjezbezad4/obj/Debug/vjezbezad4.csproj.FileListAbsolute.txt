@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\vjezbeeeeeeeee\vjezbezad4\bin\Debug\vjezbezad4.exe.config
+C:\Users\student\Desktop\vjezbeeeeeeeee\vjezbezad4\bin\Debug\vjezbezad4.exe
+C:\Users\student\Desktop\vjezbeeeeeeeee\vjezbezad4\bin\Debug\vjezbezad4.pdb
+C:\Users\student\Desktop\vjezbeeeeeeeee\vjezbezad4\obj\Debug\vjezbezad4.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\vjezbeeeeeeeee\vjezbezad4\obj\Debug\vjezbezad4.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\vjezbeeeeeeeee\vjezbezad4\obj\Debug\vjezbezad4.exe
+C:\Users\student\Desktop\vjezbeeeeeeeee\vjezbezad4\obj\Debug\vjezbezad4.pdb

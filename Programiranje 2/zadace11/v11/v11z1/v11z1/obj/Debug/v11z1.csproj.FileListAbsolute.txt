@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\v11\v11z1\v11z1\bin\Debug\v11z1.exe.config
+C:\Users\student\Desktop\v11\v11z1\v11z1\bin\Debug\v11z1.exe
+C:\Users\student\Desktop\v11\v11z1\v11z1\bin\Debug\v11z1.pdb
+C:\Users\student\Desktop\v11\v11z1\v11z1\obj\Debug\v11z1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\v11\v11z1\v11z1\obj\Debug\v11z1.Form1.resources
+C:\Users\student\Desktop\v11\v11z1\v11z1\obj\Debug\v11z1.Form2.resources
+C:\Users\student\Desktop\v11\v11z1\v11z1\obj\Debug\v11z1.Properties.Resources.resources
+C:\Users\student\Desktop\v11\v11z1\v11z1\obj\Debug\v11z1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\v11\v11z1\v11z1\obj\Debug\v11z1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\v11\v11z1\v11z1\obj\Debug\v11z1.exe
+C:\Users\student\Desktop\v11\v11z1\v11z1\obj\Debug\v11z1.pdb
